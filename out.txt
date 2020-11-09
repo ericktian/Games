@@ -1,0 +1,13 @@
+Board:
+OOOOOOOO
+OOXXOOOO
+OOOOXOOO
+OXXOOOOO
+OXOOOOOO
+OOOOXOXX
+OXOOOXXX
+OOOOOO.O
+Possible Moves: {62}
+My heuristic choice is 62
+Negamax is running with n = 1
+Negamax returns [46, 62] and my move is 62
